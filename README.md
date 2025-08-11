@@ -1,0 +1,1 @@
+This project is a static website built with pure HTML and CSS, using Flexbox and CSS Grid for a responsive layout. No JavaScript or frameworks are used, making it ideal for portfolios, landing pages, or practice projects.
